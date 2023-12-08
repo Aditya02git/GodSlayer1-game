@@ -1,0 +1,22 @@
+Basic Fighting Game Mechanism By Aditya:-
+
+0.Project Setup-->done
+1.Create Player and Enemy-->done
+2.Move Characters with Event Listners-->done
+3.Attacks-->done
+*.Defence
+*.Using abilities
+4.Health bar Interface-->done
+5.Game Timers and Game Over-->done
+
+
+Sprite Animation:
+
+6.Background sprite-->done
+7.Player Sprite-->done
+8.Enemy Sprite-->done
+9.Interface Design and animation-->done
+10.Pushing Live-->done
+
+11.Add more Characters
+12.Add Maps
